@@ -1,3 +1,7 @@
+-- link to xlsx: https://ourworldindata.org/covid-deaths ("Download" below the graph)
+-- created in SQL Server Management Studio
+
+
 -- RANDOM VISUAL CHECK OF DATA
 select location,date,total_cases, new_cases, total_deaths,population
 from PortfolioProject..CovidDeaths
