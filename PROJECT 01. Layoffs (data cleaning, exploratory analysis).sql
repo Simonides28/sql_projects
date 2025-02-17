@@ -1,4 +1,5 @@
 -- link to csv: https://github.com/AlexTheAnalyst/MySQL-YouTube-Series
+-- created in MySQL Workbench
 
 -- PART 1
 -- DATA CLEANING
